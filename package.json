@@ -29,11 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "tba"
+    "url": "https://github.com/joops75/drum-mate"
   },
   "author": "Simon Cooper",
   "license": "MIT",
-  "homepage": "tba",
+  "homepage": "https://drum-mate.herokuapp.com/",
   "dependencies": {
     "express": "^4.13.4",
     "better-npm-run": "^0.1.0"
