@@ -60,6 +60,7 @@ class Volume extends React.Component {
     startxAssigned = false
   }
   handleKeyDown(e) {
+    e.preventDefault()
     var vol = this.props.volume
     if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') {
       vol -= 0.01
