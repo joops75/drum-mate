@@ -50,3 +50,4 @@ Addtional packages of note:
 * sass-loader
 * css-loader
 * style-loader
+* better-npm-run
