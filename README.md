@@ -44,7 +44,9 @@ Technologies used in this project:
 Addtional packages of note:
 * react-redux
 * react-router
+* babel-core
 * node-sass
+* babel-loader
 * sass-loader
 * css-loader
 * style-loader
